@@ -1,29 +1,35 @@
-```markdown
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="200px" />
 
-# Renan Ferreira
+# 👋🏽 Renan Ferreira
 
-⭐️ Concluí meu primeiro exercício no GitHub! 🥳  
-Este repositório é resultado do tutorial _Introduction to GitHub_.
-
-Sou engenheiro de suporte na CloudWalk, com formação em Geografia, técnico em mecânica e químico. Exploro tecnologia com foco em grafos, inteligência coletiva e automação de atendimento.
+CSE at CloudWalk, geographer and chemist. Curious.  
+Communication systems and technology of colective intelligence.
 
 ---
 
-## 🚀 O que fiz aqui
+## ⚙️ Stack & Ferramentas
 
-- Criei branch
-- Fiz commit
-- Abri e mergeei um PR
-
-Tudo direto na prática, em menos de uma hora.
-
-🔗 [Veja o exercício](https://github.com/renaaan-ferreira/skills-introduction-to-github/issues/1)
+- **Customer Support** infra vision
+- **Python**
+- **Terraform, Git, Docker** - learning
+- **VS Code, Grafana, Metabase, ArgoCD** - CW context
 
 ---
 
-## 📫 Contato
+## 📍 Focused on:
 
-- renan.litordi@cloudwalk.io  
-- [linkedin.com/in/renanlitordi](https://linkedin.com/in/renanlitordi)
-```
+- Huggin Face course **local models**, **LiteLLM**, **Ollama**  
+- **WPA offline-first** (personal project)  
+- **neural language** on Payments & Banking
+
+---
+
+## 📫 e-mail
+
+- ✉️ renan.litordi@cloudwalk.io  
+- 💭 Always open to ideas of building a new world together.
+
+---
+
+> _"Routine is a freedom architecture."_  
+> — Unknown
